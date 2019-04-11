@@ -1,0 +1,7 @@
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\Introduction\bin\Debug\Introduction.exe.config
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\Introduction\bin\Debug\Introduction.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\Introduction\bin\Debug\Introduction.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\Introduction\obj\Debug\Introduction.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\Introduction\obj\Debug\Introduction.pdb
