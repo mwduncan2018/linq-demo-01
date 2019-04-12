@@ -1,0 +1,7 @@
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\bin\Debug\ThePowerOfIEnumerable.exe.config
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\bin\Debug\ThePowerOfIEnumerable.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\bin\Debug\ThePowerOfIEnumerable.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\Debug\ThePowerOfIEnumerable.csprojResolveAssemblyReference.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\Debug\ThePowerOfIEnumerable.csproj.CoreCompileInputs.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\Debug\ThePowerOfIEnumerable.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\Debug\ThePowerOfIEnumerable.pdb
