@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction", "Introductio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePowerOfIEnumerable", "ThePowerOfIEnumerable\ThePowerOfIEnumerable.csproj", "{32FDBDAD-10E5-49D5-9BC6-C69AF6A91690}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingAnExtensionMethod", "CreatingAnExtensionMethod\CreatingAnExtensionMethod.csproj", "{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32FDBDAD-10E5-49D5-9BC6-C69AF6A91690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32FDBDAD-10E5-49D5-9BC6-C69AF6A91690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32FDBDAD-10E5-49D5-9BC6-C69AF6A91690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

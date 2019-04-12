@@ -5,3 +5,6 @@ C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\D
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\Debug\ThePowerOfIEnumerable.csproj.CoreCompileInputs.cache
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\Debug\ThePowerOfIEnumerable.exe
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\obj\Debug\ThePowerOfIEnumerable.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\bin\Debug\CreatingAnExtensionMethod.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\bin\Debug\CreatingAnExtensionMethod.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\ThePowerOfIEnumerable\bin\Debug\CreatingAnExtensionMethod.exe.config

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32FDBDAD-10E5-49D5-9BC6-C69AF6A91690}</ProjectGuid>
+    <ProjectGuid>{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ThePowerOfIEnumerable</RootNamespace>
-    <AssemblyName>ThePowerOfIEnumerable</AssemblyName>
+    <RootNamespace>CreatingAnExtensionMethod</RootNamespace>
+    <AssemblyName>CreatingAnExtensionMethod</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,19 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="MyLinq.cs" />
+    <Compile Include="MyStringExtensions.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CreatingAnExtensionMethod\CreatingAnExtensionMethod.csproj">
-      <Project>{a6e36b2a-6989-4e31-acc9-c3df259319ff}</Project>
-      <Name>CreatingAnExtensionMethod</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
