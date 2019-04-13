@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePowerOfIEnumerable", "Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingAnExtensionMethod", "CreatingAnExtensionMethod\CreatingAnExtensionMethod.csproj", "{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingLambdaExpressions", "UnderstandingLambdaExpressions\UnderstandingLambdaExpressions.csproj", "{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6E36B2A-6989-4E31-ACC9-C3DF259319FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

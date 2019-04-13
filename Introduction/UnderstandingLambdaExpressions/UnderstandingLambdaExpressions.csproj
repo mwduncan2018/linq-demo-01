@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32FDBDAD-10E5-49D5-9BC6-C69AF6A91690}</ProjectGuid>
+    <ProjectGuid>{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ThePowerOfIEnumerable</RootNamespace>
-    <AssemblyName>ThePowerOfIEnumerable</AssemblyName>
+    <RootNamespace>UnderstandingLambdaExpressions</RootNamespace>
+    <AssemblyName>UnderstandingLambdaExpressions</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,9 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="GenerateData.cs" />
-    <Compile Include="MyLinq.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,6 +51,14 @@
     <ProjectReference Include="..\CreatingAnExtensionMethod\CreatingAnExtensionMethod.csproj">
       <Project>{a6e36b2a-6989-4e31-acc9-c3df259319ff}</Project>
       <Name>CreatingAnExtensionMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Introduction\Introduction.csproj">
+      <Project>{401ee710-01e8-4ba8-9c03-d65ed734360a}</Project>
+      <Name>Introduction</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThePowerOfIEnumerable\ThePowerOfIEnumerable.csproj">
+      <Project>{32fdbdad-10e5-49d5-9bc6-c69af6a91690}</Project>
+      <Name>ThePowerOfIEnumerable</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

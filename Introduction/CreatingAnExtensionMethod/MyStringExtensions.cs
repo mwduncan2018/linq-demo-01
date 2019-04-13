@@ -8,10 +8,10 @@ namespace CreatingAnExtensionMethod
 {
     public static class MyStringExtensions
     {
-        static public string Out(this string str)
+        static public string Out(this object str)
         {
-            Console.WriteLine(str);
-            return str;
+            Console.WriteLine(str.ToString());
+            return str.ToString();
         }
 
     }

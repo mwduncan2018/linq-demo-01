@@ -11,31 +11,25 @@ namespace ThePowerOfIEnumerable
     {
         static void Main(string[] args)
         {
-            IEnumerable<Employee> developers = new Employee[]
-            {
-                new Employee { Id = 1, Name = "Mike" },
-                new Employee { Id = 2, Name = "Trav" }
-            };
-            IEnumerable<Employee> sales = new List<Employee>
-            {
-                new Employee { Id = 3, Name = "Bill" },
-                new Employee { Id = 4, Name = "Jack" },
-                new Employee { Id = 5, Name = "Gail" },
-                new Employee { Id = 6, Name = "Sandra" }
-            };
-            HashSet<Employee> employees = new HashSet<Employee>();
-            
+            IEnumerable<Employee> developers = GenerateData.GoDevelopers();
+            IEnumerable<Employee> sales = GenerateData.GoSales();
 
             ("Developers: " + developers.MyCount().ToString()).Out();
-            ("Sales: " + sales.MyCount().ToString()).Out();
             String.Empty.Out();
-            
-            
 
             IEnumerator<Employee> enumerator = developers.GetEnumerator();
             while (enumerator.MoveNext())
             {
                 enumerator.Current.Name.Out();
+            }
+            String.Empty.Out();
+
+            ("Sales: " + sales.MyCount().ToString()).Out();
+            String.Empty.Out();
+
+            foreach (var x in sales)
+            {
+                x.Out();
             }
             String.Empty.Out();
 

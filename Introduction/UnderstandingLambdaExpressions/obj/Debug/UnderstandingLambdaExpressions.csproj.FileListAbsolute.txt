@@ -1,0 +1,16 @@
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\UnderstandingLambdaExpressions.exe.config
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\UnderstandingLambdaExpressions.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\UnderstandingLambdaExpressions.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\CreatingAnExtensionMethod.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\Introduction.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\ThePowerOfIEnumerable.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\CreatingAnExtensionMethod.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\CreatingAnExtensionMethod.exe.config
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\Introduction.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\Introduction.exe.config
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\ThePowerOfIEnumerable.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\bin\Debug\ThePowerOfIEnumerable.exe.config
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\obj\Debug\UnderstandingLambdaExpressions.csprojResolveAssemblyReference.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\obj\Debug\UnderstandingLambdaExpressions.csproj.CoreCompileInputs.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\obj\Debug\UnderstandingLambdaExpressions.exe
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\UnderstandingLambdaExpressions\obj\Debug\UnderstandingLambdaExpressions.pdb
