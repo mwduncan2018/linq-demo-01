@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4532B9A4-5F42-48AF-BD60-64F4A5E40AAB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CustomFilterOperator</RootNamespace>
+    <AssemblyName>CustomFilterOperator</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Movie.cs" />
+    <Compile Include="MyLinq.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CreatingAnExtensionMethod\CreatingAnExtensionMethod.csproj">
+      <Project>{a6e36b2a-6989-4e31-acc9-c3df259319ff}</Project>
+      <Name>CreatingAnExtensionMethod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Introduction\Introduction.csproj">
+      <Project>{401ee710-01e8-4ba8-9c03-d65ed734360a}</Project>
+      <Name>Introduction</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThePowerOfIEnumerable\ThePowerOfIEnumerable.csproj">
+      <Project>{32fdbdad-10e5-49d5-9bc6-c69af6a91690}</Project>
+      <Name>ThePowerOfIEnumerable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnderstandingLambdaExpressions\UnderstandingLambdaExpressions.csproj">
+      <Project>{694b3233-d76d-4dee-86e4-cd1e71cc96e4}</Project>
+      <Name>UnderstandingLambdaExpressions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

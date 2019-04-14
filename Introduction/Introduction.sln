@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingAnExtensionMethod",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingLambdaExpressions", "UnderstandingLambdaExpressions\UnderstandingLambdaExpressions.csproj", "{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFilterOperator", "CustomFilterOperator\CustomFilterOperator.csproj", "{4532B9A4-5F42-48AF-BD60-64F4A5E40AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelEfficiency", "FuelEfficiency\FuelEfficiency.csproj", "{FFE9551E-9F43-4878-AEB5-A2BDA33A428A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{694B3233-D76D-4DEE-86E4-CD1E71CC96E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4532B9A4-5F42-48AF-BD60-64F4A5E40AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4532B9A4-5F42-48AF-BD60-64F4A5E40AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4532B9A4-5F42-48AF-BD60-64F4A5E40AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4532B9A4-5F42-48AF-BD60-64F4A5E40AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE9551E-9F43-4878-AEB5-A2BDA33A428A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE9551E-9F43-4878-AEB5-A2BDA33A428A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE9551E-9F43-4878-AEB5-A2BDA33A428A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE9551E-9F43-4878-AEB5-A2BDA33A428A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

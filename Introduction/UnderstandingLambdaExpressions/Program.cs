@@ -15,6 +15,16 @@ namespace UnderstandingLambdaExpressions
             FuncAndActionPractice();
             var sales = GenerateData.GoSales();
 
+            "Query Syntax:".Out();
+            var query = from sale in sales
+                        where sale.Name.Length > 5
+                        orderby sale.Name descending
+                        select sale.Name;
+            foreach (var item in query) { item.Out(); }
+            String.Empty.Out();
+
+
+            "Method Syntax:".Out();
             foreach (var item in sales
                 .Where(x => x.Name.StartsWith("A"))
                 .OrderByDescending(y => y.Name))
