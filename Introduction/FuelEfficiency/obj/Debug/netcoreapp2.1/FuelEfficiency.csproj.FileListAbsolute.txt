@@ -1,11 +1,11 @@
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.csprojResolveAssemblyReference.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.csproj.CoreCompileInputs.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.AssemblyInfoInputs.cache
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.AssemblyInfo.cs
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\bin\Debug\netcoreapp2.1\FuelEfficiency.deps.json
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\bin\Debug\netcoreapp2.1\FuelEfficiency.runtimeconfig.json
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\bin\Debug\netcoreapp2.1\FuelEfficiency.runtimeconfig.dev.json
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\bin\Debug\netcoreapp2.1\FuelEfficiency.dll
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\bin\Debug\netcoreapp2.1\FuelEfficiency.pdb
-C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.csprojResolveAssemblyReference.cache
-C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.csproj.CoreCompileInputs.cache
-C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.AssemblyInfoInputs.cache
-C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.AssemblyInfo.cs
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.dll
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\FuelEfficiency\obj\Debug\netcoreapp2.1\FuelEfficiency.pdb

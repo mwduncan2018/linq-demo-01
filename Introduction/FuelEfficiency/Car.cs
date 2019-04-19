@@ -4,6 +4,18 @@ using System.Text;
 
 namespace FuelEfficiency
 {
+    public static class CarLinq
+    {
+        public static IEnumerable<Car> ToCar(this IEnumerable<string> lines)
+        {
+            foreach (var item in lines)
+            {
+                yield return Car.ParseFromCsvLine(item);
+            }
+
+        }
+    }
+
     public class Car
     {
         public int Year { get; set; }

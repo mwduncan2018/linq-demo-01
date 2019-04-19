@@ -1,6 +1,7 @@
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\CreatingAnExtensionMethod\bin\Debug\CreatingAnExtensionMethod.exe.config
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\CreatingAnExtensionMethod\bin\Debug\CreatingAnExtensionMethod.exe
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\CreatingAnExtensionMethod\bin\Debug\CreatingAnExtensionMethod.pdb
+C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\CreatingAnExtensionMethod\obj\Debug\CreatingAnExtensionMethod.csprojResolveAssemblyReference.cache
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\CreatingAnExtensionMethod\obj\Debug\CreatingAnExtensionMethod.csproj.CoreCompileInputs.cache
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\CreatingAnExtensionMethod\obj\Debug\CreatingAnExtensionMethod.exe
 C:\All_Git_03\c_sharp_lang\linq_demo_01\Introduction\CreatingAnExtensionMethod\obj\Debug\CreatingAnExtensionMethod.pdb
